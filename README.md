@@ -1,39 +1,30 @@
 # 2nd-Cygnus-api-quiz
+
 Module 3 Web api code quiz challenge
-# <Your-Project-Title>
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+This application is a quiz about the United States. It is a fun and easy game/quiz to test some random state facts. 
+It was fun to learn how to build these everyday quizes we see online. 
+I learned alot about Javascript and page layout. Its always beneficial to put skills learned to the test.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+No installation required. Click the link to the URL and click "Play" to start the quiz.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Navigate to the URl to take the quiz.
+Click "play" to take quiz or "high scores" to see past scores.
+Click "play" and answer questions with the multiple choice options. 
+The timmer in the upper right corner will count down from 90 seconds for the allot time. 
+Once all five questions are answered, your score will be tallied and you can sumbit your name to high scores
+progress bar in upper left hand corner will track your progress. 
+Once done you can view high scores or play the quiz again. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-
-    
+[quiz intro page](./assets/Screenshot%202023-11-12%20at%208.28.38 PM.png)
+[quiz questions](./assets/Screenshot%202023-11-12%20at%208.28.48 PM.png)
+[end quiz page](./assets/Screenshot%202023-11-12%20at%208.29.07 PM.png)
 
 
 ## Credits
