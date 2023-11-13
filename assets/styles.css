@@ -1,5 +1,5 @@
 :root {
-    background-color: lightslategray;
+    background-color: rgb(107, 176, 246);
 }
 
 * {
@@ -61,14 +61,15 @@ h2 {
     text-align: center;
     margin-bottom: 1rem;
     text-decoration: none;
-    color: steelblue;
-    background: -o-linear-gradient
+    color: rgb(232, 112, 228);
+    /* background: -o-linear-gradient */
+    background: linear-gradient(90deg, rgb(255, 247, 9) 0%, rgb(240, 221, 6) 100%);
     border-radius: 4px;
 }
 
 .btn:hover {
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgb(70, 130, 180);
+    box-shadow: 0 0.4rem 1.4rem 0 rgb(255, 247, 9);
     transition: transform 150ms;
     transform: scale(1.03);
 }

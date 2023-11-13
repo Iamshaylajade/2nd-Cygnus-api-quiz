@@ -30,11 +30,11 @@ body {
 }
 
 .correct {
-    background: linear-gradient(32deg, rgba(11, 223, 36) 0%, rgb(41, 232, 111) 100%);
+    background: linear-gradient(32deg, rgba(15, 89, 23) 0%, rgb(15, 89, 23) 100%);
 }
 
 .incorrect {
-    background: linear-gradient(32deg, rgba(230, 29, 29, 1) 0%, rgb(224, 11, 11, 1) 100%);
+    background: linear-gradient(32deg, rgb(121, 15, 15) 0%, rgb(121, 15, 15, 1) 100%);
 }
 
 /* Heads up Display */
@@ -55,7 +55,7 @@ text-align: center;
 #progressBar {
     width: 20rem;
     height: 3rem;
-    border: 0.2rem solid rgba(11, 223, 36);
+    border: 0.2rem solid rgba(15, 89, 23);
     margin-top: 2 rem;
     border-radius: 50px;
     overflow: hidden;
@@ -63,7 +63,7 @@ text-align: center;
 
 #progressBarFull {
     height: 100%;
-    background: rgba(11, 223, 36);
+    background: rgb(15, 89, 23);
     width: 0%;
 }
 
