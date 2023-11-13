@@ -12,6 +12,9 @@ I learned alot about Javascript and page layout. Its always beneficial to put sk
 
 No installation required. Click the link to the URL and click "Play" to start the quiz.
 
+Iamshaylajade.github.io/2nd-Cygnus-api-quiz
+https://github.com/Iamshaylajade/2nd-Cygnus-api-quiz
+
 ## Usage
 
 Navigate to the URl to take the quiz.
