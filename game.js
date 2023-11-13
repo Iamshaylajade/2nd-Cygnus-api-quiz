@@ -13,43 +13,43 @@ let availableQuestions = []
 
 let questions = [
     {
-        question: 'placeholder for a question',
-        choice1: 'A',
-        choice2: 'B',
-        choice3: 'C',
-        choice4: 'D',
+        question: 'How many States make up the United States of America',
+        choice1: '52',
+        choice2: '50',
+        choice3: '48',
+        choice4: '49',
         answer: '2'
     },
     {
-        question: 'placeholder for a question',
-        choice1: 'A',
-        choice2: 'B',
-        choice3: 'C',
-        choice4: 'D',
+        question: 'Which state has the most cities',
+        choice1: 'California',
+        choice2: 'Texas',
+        choice3: 'New York',
+        choice4: 'Florida',
         answer: '2'
     },
     {
-        question: 'placeholder for a question',
-        choice1: 'A',
-        choice2: 'B',
-        choice3: 'C',
-        choice4: 'D',
+        question: 'Which state is the least populated',
+        choice1: 'Montana',
+        choice2: 'Wyoming',
+        choice3: 'South Dakota',
+        choice4: 'Vermont',
         answer: '2'
     },
     {
-        question: 'placeholder for a question',
-        choice1: 'A',
-        choice2: 'B',
-        choice3: 'C',
-        choice4: 'D',
+        question: 'Which state is the most populated',
+        choice1: 'Florida',
+        choice2: 'California',
+        choice3: 'Texas',
+        choice4: 'North Carolina',
         answer: '2'
     },
     {
-        question: 'placeholder for a question',
-        choice1: 'A',
-        choice2: 'B',
-        choice3: 'C',
-        choice4: 'D',
+        question: 'Which state is the MOST isolated from other states',
+        choice1: 'North Dakota',
+        choice2: 'Hawaii',
+        choice3: 'Alaska',
+        choice4: 'Arkansas',
         answer: '2'
     },
 ]
